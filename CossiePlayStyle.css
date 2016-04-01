@@ -1,0 +1,130 @@
+@charset "utf-8";
+
+h1 {
+	text-align: center;
+	font-weight: lighter;
+	font-size: 3em;
+    width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.PartyGuidelines {
+	margin-left: 1%;
+	margin-right: 0%;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 1.5em;
+}
+.Announcements {
+	margin-left: 1%;
+	margin-right: 0px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 1.5em;
+}
+.SignUp {
+	margin-right: 30%;
+	margin-left: 1%;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 1.5em;
+	right: 1%;
+}
+
+
+
+nav Bar {
+	border: thin black solid;
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 30px;
+	padding-right: 20%;
+	font-size: 3%;
+}
+
+
+nav ul li a:hover {
+	color: #333333;
+	background-color: #97bfff;
+
+}
+nav ul li a:active {
+	color: #000000;
+	background-color: #FF9900;
+	
+}
+
+nav ul li {
+	display: inline;
+	list-type: none;
+	margin-left: 1%;
+	left: 10%;
+	
+}
+Body h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+body nav {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	background-color: #000000;
+	margin-left: 1%;
+	font-size: 200%;
+}
+ul li a {
+	background-color: #FFFFFF;
+	color: #000000;
+	margin-left: 0%;
+	text-decoration: none;
+	padding-bottom: 1px;
+	padding-right: 1%;
+	padding-left: 1%;
+}
+nav ul li {
+	background-color: #FFFFFF;
+}
+
+
+body {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+.Links {
+	margin-right: 30%;
+	margin-left: 1%;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 1.5em;
+}
+.Announcements img {
+	margin-left: 4%;
+	margin-top: 3%;
+}
+one10  {
+
+}
+one11 {
+	margin-left: 6%;
+}
+body img {
+}
+
+body nav table {
+	border-color: #8D8D8D;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	border-top-left-radius: 0px;
+	margin-left: 3%;
+}
+.spiderman> img {
+
+}
+
+
+footer {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	color: #000000;
+	background-color: #A1A1A1;
+	margin-bottom: 1%;
+}
+body img {
+	margin-left: 17%;
+}
